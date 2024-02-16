@@ -1,4 +1,4 @@
 # Mighty Jumper
-Juego desarrollado en Unity para la VGA en 1 semana.
+Game developed in Unity in 1 week for the VGA by Iván Moreno, David Berrocal and Marc Ribas.
 
 Link itch.io: https://pandax40.itch.io/mightyjumper
